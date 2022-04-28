@@ -1,0 +1,43 @@
+.companyName {
+    font-size: 30px;
+    margin: auto;
+    color: black;
+    text-align: center;
+    padding-top: 130px;
+    width: 200px;
+    height: 150px;
+  }
+
+.imageContainer {
+    background-image: url('Images/Back-Image.jpeg'); 
+    height: 400px; 
+    background-position: center; 
+    background-size: cover; 
+    margin-top: 20px;
+  }
+
+.Logo1 {
+    background-color: white;
+    border-radius: 15%;
+    width: 150px;
+    align-items: center;
+}  
+
+.bgcolor{
+    background-color: black;
+}
+
+.border2{
+    border:2px solid rgb(236, 135, 135)
+  }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.navbar{
+  background-color: black;
+  color: white;
+}
