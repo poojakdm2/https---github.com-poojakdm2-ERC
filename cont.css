@@ -9,7 +9,7 @@
   }
 
 .imageContainer {
-    background-image: url('images/Back-Image.jpeg'); 
+    background-image: url('images/Back-image.jpeg'); 
     height: 400px; 
     background-position: center; 
     background-size: cover; 
